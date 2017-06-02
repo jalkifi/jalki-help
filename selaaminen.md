@@ -1,6 +1,6 @@
 Sisällön selaaminen
 
-## Etusivu
+## Etusivu <a name="etusivu"></a> 
 
 Etusivu on kaiken Jälki-palvelussa olevan tiedon keskus. Se näyttää ajantasaiset ja oleelliset asiat tiivistettynä pakettina.
 
@@ -14,7 +14,7 @@ Palvelun etusivulla näet mm.
 
 Hakutoiminto on yksi kätevimmistä ominaisuuksista; sen avulla voit etsiä vapaalla hakusanalla reittejä ja paikkoja palvelusta.
 
-## Kartta
+## Kartta <a name="kartta"></a>
 
 Karttanäkymä sopii parhaiten reittien etsimiseen ja selaamiseen maantieteellisen alueen perusteella. Se jakautuu kolmeen osaan:
 
@@ -28,7 +28,7 @@ Kun liikuttelet tai zoomaat karttaa tai säädät suodattimien asetuksia, päivi
 
 Kun zoomaan karttaa reilusti ulospäin, näytetään yksittäisten reittien sijaan ns. lämpökartta. Mitä "kuumempi" alue kartalla on, sitä enemmän se sisältää reittejä. Lämpökartta ei kerro absluuttista reittien määrää vaan sen näkymä on suhteellinen kartalla näkyvään alueeseen nähden.
 
-## Paikkakuntalistat
+## Paikkakuntalistat <a name="paikkakuntalistat"></a> 
 
 Paikkakuntasivut näyttävät listan reittejä kyseisellä paikkakunnalla. Esimerkiksi sivu [jälki.fi/paikkakunnat/Tampere](http://jalki.fi/paikkakunnat/Tampere) näyttää kaikki Tampereen sisältä lähtevät reitit.
 
@@ -37,7 +37,7 @@ Paikkakuntasivut on helppo linkittää sosiaaliseen mediaan, foorumeille, blogip
 > Jälki-palvelu määrittää alueen nimen automaattisesti reitin lähtöpisteen perusteella.
 
 
-## Reittien ja paikkojen tietosivut
+## Reittien ja paikkojen tietosivut <a name="tietosivut"></a> 
 
 Jokaisella reitillä, paikalla ja kokoelmalla on oma sivu. Ne näyttävät oleellista ja yksityiskohtaista tietoa, kuten esimerkiksi tarkan sijainnin kartalla, tekstipohjaisen kuvauksen ja mahdolliset videot.
 
@@ -47,7 +47,7 @@ Sivulla näkyvät toiminnot riippuvat siitä, oletko kirjautunut sisään ja omi
 - Kirjautuneet käyttäjät voivat lisäksi kommentoida ja "peukuttaa" reitteja ja paikkoja.
 - Reitin, paikan tai kokoelman tietoja voi muokata vain sen omistaja.
 
-## Hakutoiminnot
+## Hakutoiminnot <a name="hakutoiminnot"></a> 
 
 Usealla Jälki-palvelun sivulla näkyy hakukenttä. Sen avulla voi etsiä reittejä ja paikkoja vapaalla hakusanalla. 
 
