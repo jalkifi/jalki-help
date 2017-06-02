@@ -1,20 +1,16 @@
 ## Jälki-verkkopalvelun käyttöohjeet
 
-### Sisällön selaaminen
+### Sisällön selaaminen ja etsiminen
 
-- Etusivu
-- Kartta
-- Reittien selaaminen tietyllä paikkakunnalla
-- Reitin tai paikan tietosivu
-- Hakutoiminnot
+- [Etusivu](https://mhaulo.github.io/jalki-help/selaaminen#etusivu)
+- [Kartta](https://mhaulo.github.io/jalki-help/selaaminen#kartta)
+- [Reittien selaaminen tietyllä paikkakunnalla](https://mhaulo.github.io/jalki-help/selaaminen#paikkakuntalistat)
+- [Hakutoiminnot](https://mhaulo.github.io/jalki-help/selaaminen#hakutoiminnot)
 
 ### Reitit, paikat ja kokoelmat
 
-- Reitin luominen
-- Paikan luominen
-- Kokoelman luominen
-- Reitin tai paikan lisääminen kokoelmaan
-- Sisällön poitaminen kokoelmasta
-- Reitin lataaminen GPX-tiedostona
-- Yksityiset ja julkiset reitit
+- [Reitin luominen](https://mhaulo.github.io/jalki-help/perustoiminnot#reitin_luominen)
+- [Paikan luominen](https://mhaulo.github.io/jalki-help/perustoiminnot#paikan_luominen)
+- [Reitin tai paikan lisääminen kokoelmaan](https://mhaulo.github.io/jalki-help/perustoiminnot#lisaaminen_kokoelmaan)
+- [Sisällön poitaminen kokoelmasta](https://mhaulo.github.io/jalki-help/perustoiminnot#poistaminen_kokoelmasta)
 
