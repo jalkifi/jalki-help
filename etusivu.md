@@ -37,5 +37,27 @@ Paikkakuntasivut on helppo linkittää sosiaaliseen mediaan, foorumeille, blogip
 > Jälki-palvelu määrittää alueen nimen automaattisesti reitin lähtöpisteen perusteella.
 
 
+## Reittien ja paikkojen tietosivut
 
+Jokaisella reitillä, paikalla ja kokoelmalla on oma sivu. Ne näyttävät oleellista ja yksityiskohtaista tietoa, kuten esimerkiksi tarkan sijainnin kartalla, tekstipohjaisen kuvauksen ja mahdolliset videot.
+
+Sivulla näkyvät toiminnot riippuvat siitä, oletko kirjautunut sisään ja omistatko sivun näyttämän reitin, paikan tai kokoelman.
+
+- Kaikki käyttäjät - myös kirjautumattomat - voivat ladata julkiseksi merkittyjen reittien ja paikkojen gpx-tiedostoja. 
+- Kirjautuneet käyttäjät voivat lisäksi kommentoida ja "peukuttaa" reitteja ja paikkoja.
+- Reitin, paikan tai kokoelman tietoja voi muokata vain sen omistaja.
+
+## Hakutoiminnot
+
+Usealla Jälki-palvelun sivulla näkyy hakukenttä. Sen avulla voi etsiä reittejä ja paikkoja vapaalla hakusanalla. 
+
+> Hakusanoja etsitään reitin tai paikan nimestä ja kuvauksesta.
+
+Karttasivulla reittien etsintä perustuu suodattimien käyttöön. Näytettävät reitit valikoituvat sen mukaan
+
+- minkä maantieteellisen alueen kartta rajaa
+- mitä on asetettu näytettävien reittien pituuden ala- ja ylärajaksi
+- mitkä reittityypit on valittu näytettäviksi
+
+Tulokset näytetään sekä kartalla että sen alapuolella olevassa listassa. Kartalla reittiviivan klikkaaminen avaa pienen ruudun, jossa näytetään reitin perustiedot (nimi, pituus, nousumetrit, reitin tyyppi) sekä linkki reitin tietosivulle. Kartan alapuolella oleva listassa näytetään samantapainen korttinäkymä kuin esimerkiksi etusivulla.
 
